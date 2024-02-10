@@ -1,10 +1,17 @@
-<!-- AMP Analytics --><script async custom-element="amp-analytics" src="https://cdn.ampproject.org/v0/amp-analytics-0.1.js"></script>
-<meta name="google-adsense-account" content="ca-pub-3078031207401506"><manifest xmlns:android="http://schemas.android.com/apk/res/android"<script src="https://unpkg.com/kepler.gl/umd/keplergl.min.js" /><!-- Google Tag Manager (noscript) -->
+[debugger.interactive.initializeMessage.arguments
+<!-- AMP Analytics --><script async custom-element="amp-analytics" src="https://cdn.ampproject.org/v0/amp-analytics-0.1.js">
+</script>
+add</meta name="google-adsense-account" content="ca-pub-3078031207401506">
+add</manifest xmlns:android="http://schemas.android.com/apk/res/android"<script src="https://unpkg.com/kepler.gl/umd/keplergl.min.js" /><!-- Google Tag Manager (noscript) -->
 <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-K8M8D289"
 height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 <!-- End Google Tag Manager (noscript) --><script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-3078031207401506"
-     crossorigin="anonymous"></script>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<!-- Google Tag Manager -->
-<amp-analytics config="https://www.googletagmanager.com/amp.json?id=GTM-PVLK5XPF&gtm.url=SOURCE_URL" data-credentials="include"></amp-analytics>
-<script src="https://unpkg.com/kepler.gl/umd/keplergl.min.js" /><manifest xmlns:android="http://schemas.android.com/apk/res/android"><?xml version="1.0" encoding="UTF-8"?>Keplergl.min.js`# - run: |
+     crossorigin="anonymous">
+</script>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<!-- Google Tag Manager -->
+<amp-analytics config="https://www.googletagmanager.com/amp.json?id=GTM-PVLK5XPF&gtm.url=SOURCE_URL" data-credentials="include">
+</amp-analytics>
+<script src="https://unpkg.com/kepler.gl/umd/keplergl.min.js" />
+<manifest xmlns:android="http://schemas.android.com/apk/res/android">
+<?xml version="1.0" encoding="UTF-8"?>Keplergl.min.js`# - run: |
     #     echo "Run, Build Application using script"
     #     ./location_of_script_within_repo/buildscript.sh
